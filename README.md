@@ -29,8 +29,23 @@ School Summary After NaNs
 The only school affected after the scores were replaced in the school summary was Thomas High School. There were barely any changes to the average scores; the “Average Math Score” remained the same and the “Average Reading Score” increased by 0.1 points. However, the passing percentages decreased significantly; the “% Passing Math” decreased by 26% from 93% to 67%, the “% Passing Reading” decreased by 27% from 97% to 70%, and the “% Overall Passing” decreased by 26% from 91% to 65%.
 
 
-### 
+### Top 5 Performing Schools & Bottom 5 Performing Schools
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Top 5 Performing Schools Before NaNs
+![Top 5 before NaNs](resources/Top5Schools_beforeNaNs.PNG)
+
+Top 5 Performing Schools After NaNs
+![Top 5 after NaNs](resources/Top5Schools_afterNaNs.PNG)
+
+Bottom 5 Performing Schools Before NaNs
+![Top 5 before NaNs](resources/Bottom5Schools_beforeNaNs.PNG)
+
+Bottom 5 Performing Schools After NaNs
+![Top 5 after NaNs](resources/Bottom5Schools_afterNaNs.PNG)
+
+Thomas High School was ranked 2nd in the top 5 performing schools in the district before the ninth graders’ math and reading scores were replaced with NaNs. Thomas High School has since dropped to 8th place and no longer in the top 5 performing schools. The bottom 5 performing schools did not change.
+
 
 ### 
 How does replacing the ninth-grade scores affect the following:
@@ -41,6 +56,8 @@ Scores by school size
 Scores by school type
 
 
+## Summary
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
 
