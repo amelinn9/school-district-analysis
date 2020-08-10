@@ -109,4 +109,6 @@ Since Thomas High School is in the charter type category, only the “% Passing 
 ## Summary
 Some of the major changes in the updated school district analysis after math and reading scores for the ninth grade at Thomas High School have been replaced with NaNs include:
 1. Thomas High School is no longer in the top 5 performing schools.
-2. 
+2. In the school summary, the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” for Thomas High School drastically went down by 26%, 27%, and 26%, respectively.
+3. In the school performance based on the budget per student summary, the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” decreased by 6%, 7%, and 7%, respectively.
+4. In the school performance based on the school size summary, the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” all decreased by 6%.
