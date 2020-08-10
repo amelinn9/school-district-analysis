@@ -63,8 +63,6 @@ Thomas High School was ranked 2nd in the top 5 performing schools in the distric
 
 **Average Math Scores Before NaNs**                              **Average Math Scores After NaNs** <br>
 ![Avg Math Scores before NaNs](resources/AvgMathScoresByGrade_beforeNaNs.PNG)
-
-
 ![Avg Math Scores after NaNs](resources/AvgMathScoresByGrade_afterNaNs.PNG)
 <br>
 <br>
@@ -75,7 +73,8 @@ Thomas High School was ranked 2nd in the top 5 performing schools in the distric
 <br>
 
 The only grades affected were math and reading scores from 9th graders in Thomas High School. All other grades from all other schools were not affected.
-
+<br>
+<br>
 ### School performance based on the budget per student
 
 **Scores by School Spending Before NaNs**
@@ -85,7 +84,8 @@ The only grades affected were math and reading scores from 9th graders in Thomas
 ![Scores by School Spending after NaNs](resources/ScoresBySchoolSpending_afterNaNs.PNG)
 
 Since Thomas High School is in the $630-$644 bin, the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” were affected in the $630-$644 Spending Ranges (Per Student) category. The “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” decreased by 6%, 7%, and 7%, respectively.
-
+<br>
+<br>
 ### School performance based on the school size
 **Scores by School Size Before NaNs**
 ![Scores by School Size before NaNs](resources/ScoresBySchoolSize_beforeNaNs.PNG)
@@ -107,4 +107,6 @@ Since Thomas High School is in the charter type category, only the “% Passing 
 <br>
 <br>
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Some of the major changes in the updated school district analysis after math and reading scores for the ninth grade at Thomas High School have been replaced with NaNs include:
+1. Thomas High School is no longer in the top 5 performing schools.
+2. 
