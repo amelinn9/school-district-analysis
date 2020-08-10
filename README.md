@@ -61,11 +61,11 @@ Thomas High School was ranked 2nd in the top 5 performing schools in the distric
 <br>
 ### Average Math & Reading Scores by Grade
 
-**Average Math Scores Before NaNs**                               **Average Math Scores After NaNs**
+**Average Math Scores Before NaNs**                              **Average Math Scores After NaNs**
 ![Avg Math Scores before NaNs](resources/AvgMathScoresByGrade_beforeNaNs.PNG)
 
-![Avg Math Scores after NaNs](resources/AvgMathScoresByGrade_afterNaNs.PNG)
 
+![Avg Math Scores after NaNs](resources/AvgMathScoresByGrade_afterNaNs.PNG)
 <br>
 <br>
 
@@ -78,7 +78,7 @@ The only grades affected were math and reading scores from 9th graders in Thomas
 
 <br>
 <br>
-### School performance based on the budget per student
+
 
 **Scores by School Spending Before NaNs**
 ![Scores by School Spending before NaNs](resources/ScoresBySchoolSpending_beforeNaNs.PNG)
