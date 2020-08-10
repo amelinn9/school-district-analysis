@@ -1,6 +1,20 @@
 # School District Analysis
 
 ## Overview
+Maria, the chief data scientist for a city school district is responsible for analysing information and preparing all standardised test data for analysis, reporting, and presentation. She has requested assistance in completing the analysis of the school district. The analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
+
+After the initial analysis, there was evidence showing academic dishonesty; specifically, math and reading scores for Thomas High School ninth graders. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
+
+In this analysis, the math and reading scores for Thomas High School ninth graders were replaced with NaNs while keeping the rest of the data intact. The school district analysis was then repeated to show how these changes affected the overall analysis. Below is the list of the deliverables for the analysis of the school district:
+-	A high-level snapshot of the district's key metrics, presented in a table format
+-	An overview of the key metrics for each school, presented in a table format
+-	Tables presenting each of the following metrics:
+    -	Top 5 and bottom 5 performing schools, based on the overall passing rate
+    -	The average math score received by students in each grade level at each school
+    - The average reading score received by students in each grade level at each school
+    -	School performance based on the budget per student
+    -	School performance based on the school size 
+    -	School performance based on the type of school
 
 
 ## Results
