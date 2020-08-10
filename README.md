@@ -79,6 +79,7 @@ The only grades affected were math and reading scores from 9th graders in Thomas
 <br>
 <br>
 ### School performance based on the budget per student
+
 **Scores by School Spending Before NaNs**
 ![Scores by School Spending before NaNs](resources/ScoresBySchoolSpending_beforeNaNs.PNG)
 
