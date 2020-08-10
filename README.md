@@ -28,7 +28,7 @@ In this analysis, the math and reading scores for Thomas High School ninth grade
 **District Summary After NaNs**
 ![District Summary after NaNs](resources/DistrictSummary_afterNaNs.PNG)
 
-The district summary was not significantly affected after the grades were replaced with NaNs. The “Average Math Score” went down by 0.1 points, the “Average Reading Score” had no changes, and the “% Passing Math”, “% Passing Reading”, and “% Overall Passing” all went down by 1 percent.
+The district summary was not significantly affected after the grades were replaced with NaNs. The “Average Math Score” went down by 0.1 points, the “Average Reading Score” had no changes, and the “% Passing Math”, “% Passing Reading”, and “% Overall Passing” all went down by 1%.
 <br>
 <br>
 ### School Summary
