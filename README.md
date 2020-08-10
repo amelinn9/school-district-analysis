@@ -29,8 +29,8 @@ In this analysis, the math and reading scores for Thomas High School ninth grade
 ![District Summary after NaNs](resources/DistrictSummary_afterNaNs.PNG)
 
 The district summary was not significantly affected after the grades were replaced with NaNs. The “Average Math Score” went down by 0.1 points, the “Average Reading Score” had no changes, and the “% Passing Math”, “% Passing Reading”, and “% Overall Passing” all went down by 1 percent.
-
-
+<br>
+<br>
 ### School Summary
 
 **School Summary Before NaNs**
@@ -40,8 +40,8 @@ The district summary was not significantly affected after the grades were replac
 ![School Summary after NaNs](resources/SchoolSummary_afterNaNs.PNG)
 
 The only school affected after the scores were replaced in the school summary was Thomas High School. There were barely any changes to the average scores; the “Average Math Score” remained the same and the “Average Reading Score” increased by 0.1 points. However, the passing percentages decreased significantly; the “% Passing Math” decreased by 26% from 93% to 67%, the “% Passing Reading” decreased by 27% from 97% to 70%, and the “% Overall Passing” decreased by 26% from 91% to 65%.
-
-
+<br>
+<br>
 ### Top 5 Performing Schools & Bottom 5 Performing Schools, based on overall passing rate
 
 **Top 5 Performing Schools Before NaNs**
@@ -57,8 +57,8 @@ The only school affected after the scores were replaced in the school summary wa
 ![Bottom 5 after NaNs](resources/Bottom5Schools_afterNaNs.PNG)
 
 Thomas High School was ranked 2nd in the top 5 performing schools in the district before the ninth graders’ math and reading scores were replaced with NaNs. Thomas High School has since dropped to 8th place and no longer in the top 5 performing schools. The bottom 5 performing schools did not change.
-
-
+<br>
+<br>
 ### Average Math & Reading Scores by Grade
 
 **Average Math Scores Before NaNs**                               **Average Math Scores After NaNs**
@@ -74,20 +74,38 @@ Thomas High School was ranked 2nd in the top 5 performing schools in the distric
 
 The only grades affected were math and reading scores from 9th graders in Thomas High School. All other grades from all other schools were not affected.
 
-
+<br>
+<br>
 ### School performance based on the budget per student
+**Scores by School Spending Before NaNs**
+![Scores by School Spending before NaNs](resources/ScoresBySchoolSpending_beforeNaNs.PNG)
 
+**Scores by School Spending After NaNs**
+![Scores by School Spending after NaNs](resources/ScoresBySchoolSpending_afterNaNs.PNG)
 
-
+Since Thomas High School is in the $630-$644 bin, the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” were affected in the $630-$644 Spending Ranges (Per Student) category. The “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” decreased by 6%, 7%, and 7%, respectively.
+<br>
+<br>
 ### School performance based on the school size
+**Scores by School Size Before NaNs**
+![Scores by School Size before NaNs](resources/ScoresBySchoolSize_beforeNaNs.PNG)
 
+**Scores by School Size After NaNs**
+![Scores by School Size after NaNs](resources/ScoresBySchoolSize_afterNaNs.PNG)
 
-
+Since Thomas High School is a medium sized school, only the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” were affected in the medium (1000-2000) school size category. The “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” all decreased by 6%.
+<br>
+<br>
 ### School performance based on the type of school
+**Scores by School Type Before NaNs**
+![Scores by School Type before NaNs](resources/ScoresBySchoolType_beforeNaNs.PNG)
 
+**Scores by School Type After NaNs**
+![Scores by School Type after NaNs](resources/ScoresBySchoolType_afterNaNs.PNG)
 
-
-
+Since Thomas High School is in the charter type category, only the “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” were affected in the charter school type category. The “% Passing Math”, the “% Passing Reading”, and the “% Overall Passing” decreased by 4%, 4%, and 3%, respectively.
+<br>
+<br>
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
